@@ -11,7 +11,6 @@ all: myBST
 myBST: BST.o main.o
 	@$(ECHO) "Checking $(MAIN)..."
 	@$(CXX) BST.o main.o -o $@ $(CFLAGS)
-	@ln -fs bin/$(EXEC)
 
 main.o   : src/main.cpp src/BST.h
 	@$(ECHO) "> compiling: $<..."

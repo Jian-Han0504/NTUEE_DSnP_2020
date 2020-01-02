@@ -6,9 +6,9 @@
 * $ make (all): To compile whole files in /src
 * $ make clean: To clear *.o files, executable files and outputs
 # Usage
-* $ ./bin/myBST <input_filename>
+* $ ./myBST <input_filename>
 # Files
-1. /bin   : where the exe file locates
+1. myBST  : executable files
 2. /input : input files
 3. /output: output files generated after execution
 4. /sample_output: output example provided by TA
