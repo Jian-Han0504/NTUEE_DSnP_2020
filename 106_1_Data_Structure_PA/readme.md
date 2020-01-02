@@ -13,9 +13,9 @@
 3. /output: output files generated after execution
 4. /sample_output: output example provided by TA
 5. /src   : source codes
-    > BST.cpp : Functions defined here
-    > BST.h   : Declarations
-    > main.cpp: main
+    * BST.cpp : Functions defined here,
+    * BST.h   : Declarations, 
+    * main.cpp: main
 6. /test_codes: UTF-8 input/output tests
 7. Makefile   : A make file for compiling
 8. Documents  : Problem and Rules descibed here
