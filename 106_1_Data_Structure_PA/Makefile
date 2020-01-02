@@ -2,6 +2,7 @@ CFLAGS = -g -Wall -std=c++11
 CXX = g++
 ECHO = echo
 MAIN = main
+EXEC = myBST
 
 all: myBST
 	@$(ECHO) "Clearing outputs..."
@@ -10,6 +11,7 @@ all: myBST
 myBST: BST.o main.o
 	@$(ECHO) "Checking $(MAIN)..."
 	@$(CXX) BST.o main.o -o $@ $(CFLAGS)
+	@ln -fs bin/$(EXEC)
 
 main.o   : src/main.cpp src/BST.h
 	@$(ECHO) "> compiling: $<..."
@@ -26,7 +28,8 @@ BSTstd.o : src/BSTstd.cpp src/BST.h
 clean	 : 
 	@$(ECHO) "Cleaning .o files..."
 	@rm -rf *.o
-	@$(ECHO) "Removing cb..."
-	@rm -rf bin/cb
+	@$(ECHO) "Removing myBST..."
+	@rm -rf myBST
+	@rm -rf bin/myBST
 	@$(ECHO) "Removing output files..."
 	@rm -rf output/*.txt
