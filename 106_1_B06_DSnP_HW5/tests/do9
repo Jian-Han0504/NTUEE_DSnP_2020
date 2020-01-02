@@ -1,0 +1,21 @@
+adta -s abcde
+adtp
+adta -s bdfgg
+adtp
+adta -s dsfmv,
+adtp
+adta -s dmfds;
+adtp
+adta -s fds,mv
+adtp
+adta -s ,,xlw
+adtp
+adtd -s dsfmv,
+adtp
+adtd -s dmfds;
+adtp
+adtd -s fds,m
+adtp
+q -f
+
+

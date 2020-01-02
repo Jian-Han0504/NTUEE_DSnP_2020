@@ -1,0 +1,1150 @@
+adt> adtd -b 4
+
+adt> adtd -f 3
+
+adt> adtd -s FI
+Error: "FI" is not found!
+
+adt> adtd -s IQ
+Error: "IQ" is not found!
+
+adt> adtd -s q4
+Error: "q4" is not found!
+
+adt> adtd -a
+
+adt> adtp 
+=== ADT (dlist) ===
+
+
+adt> adtd -s zl
+Error: "zl" is not found!
+
+adt> adts
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0 seconds
+Total memory used: 0 M Bytes
+
+adt> adtd -b 4
+
+adt> adtr 8
+
+adt> adtd -s n93Vqu5j
+Error: "n93Vqu5j" is not found!
+
+adt> adts
+
+adt> adtd -s CRL1TcFP
+Error: "CRL1TcFP" is not found!
+
+adt> adtd -s iNpVgGYh
+Error: "iNpVgGYh" is not found!
+
+adt> adtd -s 5W7QFN1d
+Error: "5W7QFN1d" is not found!
+
+adt> adtr 3
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0 seconds
+Total memory used: 0 M Bytes
+
+adt> adta -s fzO
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0 seconds
+Total memory used: 0 M Bytes
+
+adt> adtd -s 7mj
+Error: "7mj" is not found!
+
+adt> adtd -s kEB
+Error: "kEB" is not found!
+
+adt> adtd -b 4
+
+adt> adtd -b 2
+
+adt> adtd -a
+
+adt> adtd -a
+
+adt> adtd -a
+
+adt> adtr 2
+
+adt> adtd -f 4
+
+adt> adtd -f 1
+
+adt> adtp -v
+Error: Illegal option!! (-v)
+
+adt> adta -s UF
+
+adt> adta -s OR
+
+adt> adtd -a
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0 seconds
+Total memory used: 0 M Bytes
+
+adt> adtd -s xp
+Error: "xp" is not found!
+
+adt> adtd -f 4
+
+adt> adta -s g4
+
+adt> adta -s 5P
+
+adt> adta -s ID
+
+adt> adta -s Er
+
+adt> adta -s 3P
+
+adt> adta -s 7P
+
+adt> adts
+
+adt> adtq 8S
+"8S" is not found!!
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0 seconds
+Total memory used: 0 M Bytes
+
+adt> adtd -f 3
+
+adt> adtq Qr
+"Qr" is not found!!
+
+adt> adtq b9
+"b9" is not found!!
+
+adt> adta -s 0X
+
+adt> adta -s 8V
+
+adt> adta -s U1
+
+adt> adta -s pQ
+
+adt> adta -s XV
+
+adt> adta -s vG
+
+adt> adta -s wN
+
+adt> adta -s RA
+
+adt> adta -s Td
+
+adt> adta -s fY
+
+adt> adts
+
+adt> adtd -a
+
+adt> adtq BO
+"BO" is not found!!
+
+adt> adtd -s 8N
+Error: "8N" is not found!
+
+adt> adtp -r
+=== ADT (dlist) ===
+
+
+adt> adtd -f 3
+
+adt> adtq Qo
+"Qo" is not found!!
+
+adt> adtd -a
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0 seconds
+Total memory used: 0 M Bytes
+
+adt> adtd -b 1
+
+adt> adts
+
+adt> adtd -b 2
+
+adt> adtr 5
+
+adt> adtq WHihK
+"WHihK" is not found!!
+
+adt> adta -s eMUS4
+
+adt> adta -s 35chc
+
+adt> adta -s W6oQz
+
+adt> adta -s P5tdQ
+
+adt> adta -s iK6uN
+
+adt> adtd -a
+
+adt> adtd -f 2
+
+adt> adtd -b 3
+
+adt> adtr 4
+
+adt> adtd -a
+
+adt> adtd -a
+
+adt> adtd -s GOJ1
+Error: "GOJ1" is not found!
+
+adt> adtd -s 1WJS
+Error: "1WJS" is not found!
+
+adt> adtd -s aNmJ
+Error: "aNmJ" is not found!
+
+adt> adtd -s DvHa
+Error: "DvHa" is not found!
+
+adt> adtd -s ETuv
+Error: "ETuv" is not found!
+
+adt> adts
+
+adt> adtq 9CwQ
+"9CwQ" is not found!!
+
+adt> adtd -s vl5y
+Error: "vl5y" is not found!
+
+adt> adts
+
+adt> adtp -r
+=== ADT (dlist) ===
+
+
+adt> adtd -b 4
+
+adt> adtd -s tAtS
+Error: "tAtS" is not found!
+
+adt> adtr 4
+
+adt> adtq 1To0
+"1To0" is not found!!
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0 seconds
+Total memory used: 0 M Bytes
+
+adt> adtd -a
+
+adt> adtd -b 4
+
+adt> adtd -s LqJm
+Error: "LqJm" is not found!
+
+adt> adtd -b 2
+
+adt> adtd -f 1
+
+adt> adtd -s VBj9
+Error: "VBj9" is not found!
+
+adt> adtp -r
+=== ADT (dlist) ===
+
+
+adt> adtd -f 4
+
+adt> adtd -a
+
+adt> adtq oEJK
+"oEJK" is not found!!
+
+adt> adtd -s poie
+Error: "poie" is not found!
+
+adt> adtd -s URSR
+Error: "URSR" is not found!
+
+adt> adta -s EDav
+
+adt> adta -s YXbJ
+
+adt> adtd -a
+
+adt> adtd -s APXq
+Error: "APXq" is not found!
+
+adt> adtd -a
+
+adt> adtq d1ub
+"d1ub" is not found!!
+
+adt> adtr 5
+
+adt> adtd -a
+
+adt> adtq c0oB2
+"c0oB2" is not found!!
+
+adt> adtd -a
+
+adt> adtd -a
+
+adt> adtd -b 1
+
+adt> adtd -s LdDMO
+Error: "LdDMO" is not found!
+
+adt> adta -s p0D0A
+
+adt> adta -s grXOg
+
+adt> adta -s vTVrb
+
+adt> adtd -b 1
+
+adt> adtd -s oPgoT
+Error: "oPgoT" is not found!
+
+adt> adtr 6
+
+adt> adtd -b 3
+
+adt> adts
+
+adt> adtd -s SotTz3
+Error: "SotTz3" is not found!
+
+adt> adtr 2
+
+adt> adtq nL
+"nL" is not found!!
+
+adt> adtp -r
+=== ADT (dlist) ===
+
+
+adt> adtd -s ea
+Error: "ea" is not found!
+
+adt> adts
+
+adt> adtd -b 1
+
+adt> adtq Jc
+"Jc" is not found!!
+
+adt> adtd -a
+
+adt> adtp -r
+=== ADT (dlist) ===
+
+
+adt> adtd -s Ev
+Error: "Ev" is not found!
+
+adt> adta -s Gn
+
+adt> adta -s Or
+
+adt> adta -s gN
+
+adt> adta -s s1
+
+adt> adtd -f 4
+
+adt> adtd -f 3
+
+adt> adts
+
+adt> adts
+
+adt> adts
+
+adt> adtd -b 2
+
+adt> adtd -s s2
+Error: "s2" is not found!
+
+adt> adtd -f 1
+
+adt> adtd -f 2
+
+adt> adtq dY
+"dY" is not found!!
+
+adt> adtq n5
+"n5" is not found!!
+
+adt> adts
+
+adt> adta -s lQ
+
+adt> adta -s 5s
+
+adt> adta -s iH
+
+adt> adtd -f 4
+
+adt> usage
+Period time used : 0.01 seconds
+Total time used  : 0.01 seconds
+Total memory used: 0 M Bytes
+
+adt> adtd -s Ww
+Error: "Ww" is not found!
+
+adt> adtp 
+=== ADT (dlist) ===
+
+
+adt> adtd -s Uc
+Error: "Uc" is not found!
+
+adt> adtd -s FQ
+Error: "FQ" is not found!
+
+adt> adtp 
+=== ADT (dlist) ===
+
+
+adt> adtp -r
+=== ADT (dlist) ===
+
+
+adt> adtd -f 2
+
+adt> adtd -f 1
+
+adt> adtq mG
+"mG" is not found!!
+
+adt> adtr 7
+
+adt> adtr 8
+
+adt> adtr 5
+
+adt> adtd -f 4
+
+adt> adtd -a
+
+adt> adtd -b 4
+
+adt> adtp 
+=== ADT (dlist) ===
+
+
+adt> adtr 3
+
+adt> adtd -f 1
+
+adt> adtd -f 3
+
+adt> adta -s FJQ
+
+adt> adta -s 1tp
+
+adt> adta -s yhM
+
+adt> adta -s mby
+
+adt> adta -s 4bJ
+
+adt> adta -s Vd8
+
+adt> adts
+
+adt> adtd -a
+
+adt> adtd -f 3
+
+adt> adtd -s oti
+Error: "oti" is not found!
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0.01 seconds
+Total memory used: 0 M Bytes
+
+adt> adtd -s QLS
+Error: "QLS" is not found!
+
+adt> adtd -s 5Zl
+Error: "5Zl" is not found!
+
+adt> adtd -f 1
+
+adt> adtr 4
+
+adt> adtd -s ECwS
+Error: "ECwS" is not found!
+
+adt> adtd -f 2
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0.01 seconds
+Total memory used: 0 M Bytes
+
+adt> adtd -b 2
+
+adt> adtq i9bl
+"i9bl" is not found!!
+
+adt> adtp 
+=== ADT (dlist) ===
+
+
+adt> adtd -s LMjd
+Error: "LMjd" is not found!
+
+adt> adtd -f 1
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0.01 seconds
+Total memory used: 0 M Bytes
+
+adt> adtd -f 4
+
+adt> adtp 
+=== ADT (dlist) ===
+
+
+adt> adtp 
+=== ADT (dlist) ===
+
+
+adt> adtd -a
+
+adt> adtr 3
+
+adt> adtd -f 1
+
+adt> adtp -r
+=== ADT (dlist) ===
+
+
+adt> adtd -s GDV
+Error: "GDV" is not found!
+
+adt> adtd -s oWr
+Error: "oWr" is not found!
+
+adt> adtd -b 1
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0.01 seconds
+Total memory used: 0 M Bytes
+
+adt> adtd -b 3
+
+adt> adtr 6
+
+adt> adtp -r
+=== ADT (dlist) ===
+
+
+adt> adta -s 8No09G
+
+adt> adta -s ItRii0
+
+adt> adta -s 02i0AQ
+
+adt> adta -s z13ZZR
+
+adt> adta -s 3jZuHF
+
+adt> adta -s SBljhz
+
+adt> adta -s asMkb6
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0.01 seconds
+Total memory used: 0 M Bytes
+
+adt> adtd -a
+
+adt> adtr 7
+
+adt> adtd -b 4
+
+adt> adtp -v
+Error: Illegal option!! (-v)
+
+adt> adtd -b 1
+
+adt> adtd -s iplonhe
+Error: "iplonhe" is not found!
+
+adt> adtd -f 2
+
+adt> adtq XKU0GKk
+"XKU0GKk" is not found!!
+
+adt> adtd -a
+
+adt> adtd -b 3
+
+adt> adtq currsF7
+"currsF7" is not found!!
+
+adt> adtd -s F2rBgwA
+Error: "F2rBgwA" is not found!
+
+adt> adtd -f 3
+
+adt> adta -s djDADU9
+
+adt> adta -s 1Mln1pz
+
+adt> adta -s AHadMry
+
+adt> adta -s 7VfEegy
+
+adt> adta -s G43mY57
+
+adt> adta -s McTFUaX
+
+adt> adtp 
+=== ADT (dlist) ===
+[  0] = djDADU9   [  1] = 1Mln1pz   [  2] = AHadMry   [  3] = 7VfEegy   
+[  4] = G43mY57   [  5] = McTFUaX   
+
+adt> adtd -s sWCym8h
+Error: "sWCym8h" is not found!
+
+adt> adtp -v
+Error: Illegal option!! (-v)
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0.01 seconds
+Total memory used: 0 M Bytes
+
+adt> adtd -f 4
+
+adt> adtd -f 4
+
+adt> adtd -b 2
+
+adt> adtd -f 2
+
+adt> adtd -f 3
+
+adt> adtr 7
+
+adt> adtd -s 2jcOzhz
+Error: "2jcOzhz" is not found!
+
+adt> adta -s MGML5Oq
+
+adt> adta -s 9QRz5cC
+
+adt> adta -s W5EMLNN
+
+adt> adta -s L0SHKDa
+
+adt> adta -s wP1IBRV
+
+adt> adta -s wE8kFRa
+
+adt> adta -s jch5ujH
+
+adt> adta -s jbyDVnI
+
+adt> adtd -a
+
+adt> adtr 8
+
+adt> adtd -f 1
+
+adt> adtr 4
+
+adt> adtd -a
+
+adt> adtd -s wTBn
+Error: "wTBn" is not found!
+
+adt> adtd -f 3
+
+adt> adtd -b 4
+
+adt> adtd -b 1
+
+adt> adtp -v
+Error: Illegal option!! (-v)
+
+adt> adtd -s plvV
+Error: "plvV" is not found!
+
+adt> adts
+
+adt> adts
+
+adt> adtd -a
+
+adt> adts
+
+adt> adts
+
+adt> adtp -v
+Error: Illegal option!! (-v)
+
+adt> adtq EWgJ
+"EWgJ" is not found!!
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0.01 seconds
+Total memory used: 0 M Bytes
+
+adt> adtd -b 1
+
+adt> adtd -a
+
+adt> adtd -s nixB
+Error: "nixB" is not found!
+
+adt> adtd -s xAhr
+Error: "xAhr" is not found!
+
+adt> adtr 7
+
+adt> adtq WsejDMK
+"WsejDMK" is not found!!
+
+adt> adtd -a
+
+adt> adtd -a
+
+adt> adtd -a
+
+adt> adtd -s uKdXeZw
+Error: "uKdXeZw" is not found!
+
+adt> adtd -s bpO3ytj
+Error: "bpO3ytj" is not found!
+
+adt> adts
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0.01 seconds
+Total memory used: 0 M Bytes
+
+adt> adtd -f 3
+
+adt> adtr 7
+
+adt> adtd -s DsmNxVZ
+Error: "DsmNxVZ" is not found!
+
+adt> adtd -s 9ZCtDZ7
+Error: "9ZCtDZ7" is not found!
+
+adt> adtp -v
+Error: Illegal option!! (-v)
+
+adt> adtp 
+=== ADT (dlist) ===
+
+
+adt> adtd -a
+
+adt> adta -s Nusrr3v
+
+adt> adta -s sHssn1q
+
+adt> adta -s 8Wvj5wq
+
+adt> adta -s B44kl3e
+
+adt> adtr 6
+
+adt> adts
+
+adt> adtd -a
+
+adt> adtd -a
+
+adt> adtd -s 5BrEU2
+Error: "5BrEU2" is not found!
+
+adt> adtp -v
+Error: Illegal option!! (-v)
+
+adt> adtd -s A8ePGX
+Error: "A8ePGX" is not found!
+
+adt> adtd -b 1
+
+adt> adtd -s mTQHel
+Error: "mTQHel" is not found!
+
+adt> adtr 8
+
+adt> adtd -a
+
+adt> adtd -f 4
+
+adt> adtd -s 29oX15cg
+Error: "29oX15cg" is not found!
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0.01 seconds
+Total memory used: 0 M Bytes
+
+adt> adtp -r
+=== ADT (dlist) ===
+
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0.01 seconds
+Total memory used: 0 M Bytes
+
+adt> adtd -f 1
+
+adt> adtp -v
+Error: Illegal option!! (-v)
+
+adt> adtd -f 3
+
+adt> adtp -r
+=== ADT (dlist) ===
+
+
+adt> adtd -s S3w5SWIm
+Error: "S3w5SWIm" is not found!
+
+adt> adta -s SgH9d5PS
+
+adt> adta -s D1PUgCmc
+
+adt> adta -s ieaQRaqC
+
+adt> adta -s hbmGFa5S
+
+adt> adta -s dY9Bu6fQ
+
+adt> adta -s bLvmMuP1
+
+adt> adta -s APIbnles
+
+adt> adta -s NblRpC2Q
+
+adt> adta -s Jn0FhXGO
+
+adt> adta -s PiCXt86b
+
+adt> adtd -b 1
+
+adt> adtd -b 4
+
+adt> adtd -a
+
+adt> adtd -f 2
+
+adt> adtd -s hNEf4D9o
+Error: "hNEf4D9o" is not found!
+
+adt> adtd -f 1
+
+adt> adtd -s uXNGouji
+Error: "uXNGouji" is not found!
+
+adt> adtd -f 3
+
+adt> adtr 7
+
+adt> adtp -r
+=== ADT (dlist) ===
+
+
+adt> adtq HoEMqW1
+"HoEMqW1" is not found!!
+
+adt> adtd -f 4
+
+adt> adtd -b 2
+
+adt> adtd -a
+
+adt> adtd -s 8MFZCPz
+Error: "8MFZCPz" is not found!
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0.01 seconds
+Total memory used: 0 M Bytes
+
+adt> adtd -f 4
+
+adt> adts
+
+adt> adtp 
+=== ADT (dlist) ===
+
+
+adt> adtd -b 1
+
+adt> adtd -b 2
+
+adt> adtd -b 3
+
+adt> adta -s vEr6pes
+
+adt> adta -s 8VMrNGG
+
+adt> adta -s JyQcHkt
+
+adt> adta -s h8OtKxP
+
+adt> adta -s tFGsjJb
+
+adt> adta -s p9XYsdk
+
+adt> adta -s qlgxEZE
+
+adt> adta -s wEKepTV
+
+adt> adtd -b 2
+
+adt> adtd -s 8ZePgAs
+Error: "8ZePgAs" is not found!
+
+adt> adtq DgqZPFI
+"DgqZPFI" is not found!!
+
+adt> adtd -f 2
+
+adt> adtd -s hKYBLqp
+Error: "hKYBLqp" is not found!
+
+adt> adtd -s KiSZ9T4
+Error: "KiSZ9T4" is not found!
+
+adt> adtq WvU5fzH
+"WvU5fzH" is not found!!
+
+adt> adtp 
+=== ADT (dlist) ===
+[  0] = JyQcHkt   [  1] = h8OtKxP   [  2] = tFGsjJb   [  3] = p9XYsdk   
+
+
+adt> adta -s 6ugrX6R
+
+adt> adta -s Wl3keoE
+
+adt> adta -s ftk7Mgv
+
+adt> adtd -f 1
+
+adt> adtd -s 0HGfmQa
+Error: "0HGfmQa" is not found!
+
+adt> adtp 
+=== ADT (dlist) ===
+[  0] = h8OtKxP   [  1] = tFGsjJb   [  2] = p9XYsdk   [  3] = 6ugrX6R   
+[  4] = Wl3keoE   [  5] = ftk7Mgv   
+
+adt> adtd -f 1
+
+adt> adtd -s KkeUwNm
+Error: "KkeUwNm" is not found!
+
+adt> adtd -s hh8cNX8
+Error: "hh8cNX8" is not found!
+
+adt> adtd -s ao3A7oT
+Error: "ao3A7oT" is not found!
+
+adt> adtr 2
+
+adt> adtp -r
+=== ADT (dlist) ===
+
+
+adt> adtd -b 3
+
+adt> adtd -a
+
+adt> adtd -a
+
+adt> adtq tG
+"tG" is not found!!
+
+adt> adtp -r
+=== ADT (dlist) ===
+
+
+adt> adts
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0.01 seconds
+Total memory used: 0 M Bytes
+
+adt> adtd -a
+
+adt> adtd -s Jg
+Error: "Jg" is not found!
+
+adt> adtq 6N
+"6N" is not found!!
+
+adt> adtd -a
+
+adt> adtd -f 1
+
+adt> adtp -v
+Error: Illegal option!! (-v)
+
+adt> adtd -s Y7
+Error: "Y7" is not found!
+
+adt> adtd -f 1
+
+adt> adtd -s fS
+Error: "fS" is not found!
+
+adt> adtd -b 1
+
+adt> adtd -a
+
+adt> adtd -s m6
+Error: "m6" is not found!
+
+adt> adtd -b 1
+
+adt> adtd -a
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0.01 seconds
+Total memory used: 0 M Bytes
+
+adt> adtd -f 1
+
+adt> adtq HG
+"HG" is not found!!
+
+adt> adtd -s VN
+Error: "VN" is not found!
+
+adt> adtr 8
+
+adt> adtd -f 4
+
+adt> adtr 6
+
+adt> adtr 8
+
+adt> adtd -s 7LinmVlV
+Error: "7LinmVlV" is not found!
+
+adt> adtd -s JyB9vXEg
+Error: "JyB9vXEg" is not found!
+
+adt> adtd -f 1
+
+adt> adtd -f 2
+
+adt> adtd -a
+
+adt> adtd -a
+
+adt> adtd -a
+
+adt> adtd -s j3mKg5xv
+Error: "j3mKg5xv" is not found!
+
+adt> adtd -b 4
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0.01 seconds
+Total memory used: 0 M Bytes
+
+adt> adtp -v
+Error: Illegal option!! (-v)
+
+adt> adtq BKMJYu6J
+"BKMJYu6J" is not found!!
+
+adt> adtp -v
+Error: Illegal option!! (-v)
+
+adt> adtd -s 8lB6EZd3
+Error: "8lB6EZd3" is not found!
+
+adt> adtd -s 2yPxy18z
+Error: "2yPxy18z" is not found!
+
+adt> adtr 3
+
+adt> adtp -r
+=== ADT (dlist) ===
+
+
+adt> adtd -f 3
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0.01 seconds
+Total memory used: 0 M Bytes
+
+adt> adtp 
+=== ADT (dlist) ===
+
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0.01 seconds
+Total memory used: 0 M Bytes
+
+adt> adtq uAB
+"uAB" is not found!!
+
+adt> adtd -f 2
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0.01 seconds
+Total memory used: 0 M Bytes
+
+adt> adtd -s ODi
+Error: "ODi" is not found!
+
+adt> adtr 5
+
+adt> adtp
+=== ADT (dlist) ===
+
+
+adt> q -f
+

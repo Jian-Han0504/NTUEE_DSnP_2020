@@ -1,0 +1,12 @@
+adtd -s Gm
+adtd -a
+adtp -r
+adts
+adtr 3
+adts
+adtr 7
+adtp -r
+adtr 6
+adtd -a
+adtp
+q -f

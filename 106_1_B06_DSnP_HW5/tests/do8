@@ -1,0 +1,33 @@
+adtr 0
+adtr 1
+adta -s 5
+adta -s HMd
+adta -s XIMdRP
+adta -s ep
+adta -s s
+adtp
+adta -s 8
+adta -s L
+adta -s 3b
+adta -s ed8
+adta -s -f
+adtd -s -f
+adtd -b 2
+adtp -r
+adta -s 2
+adta -s 2
+adta -s 2
+adtd -s 2
+adtp
+adtd -s 2
+adtd -f 3
+adtd -f 3
+adtd -f 5
+adtd -b 4
+adtd -f 4
+adtp -r
+adtd -b 5
+adta -s d
+adtd -a
+adtp -r
+q -f

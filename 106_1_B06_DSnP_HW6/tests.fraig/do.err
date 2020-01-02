@@ -1,0 +1,54 @@
+cirr sim10.aag -r
+cirp
+cirp -n
+cirp -po
+cirp -pi
+cirp -fl
+
+
+cirg 0
+cirg 1
+cirg 2
+cirg 4
+cirg 6
+cirg 25
+cirg 100
+cirg 26
+cirg 18
+cirg 14
+
+
+cirg 26 -fani 50
+cirg 25 -fani 50
+cirg 24 -fani 50
+cirg 7 -fani 50
+cirg 19 -fani 50
+cirg 0 -fani 50
+cirg 1 -fani 4
+cirg 3 -fani 4
+cirg 26 -fano 50
+cirg 25 -fano 50
+cirg 24 -fano 50
+cirg 7 -fano 50
+cirg 19 -fano 50
+cirg 0 -fano 50
+cirg 1 -fano 50
+cirg 3 -fano 4
+cirg 5 -fano 10
+cirg 6 -fano 11
+cirg 7 -fano 12
+cirg 8 -fano 13
+cirg 15 -fano 14
+cirg 16 -fano 15
+cirg 17 -fano 16
+cirg 19 -fani 18
+cirg 25 -fani 19
+cirg 26 -fani 10
+cirg 27 -fano 10
+cirg 40 -fano 20
+cirg 333 -fano 21
+cirg 56 -fano 100
+
+
+cirw
+
