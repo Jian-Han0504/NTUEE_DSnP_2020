@@ -1,0 +1,55 @@
+cirr opt01.aag -r
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+cirp -n
+cirp -fl
+cirg 0 -fano 5
+ciropt
+cirg 3 -fani 5
+cirp -n
+cirp -fl
+cirstrash
+cirswee
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirg 1 -fano 5
+cirg 3 -fani 5
+cirr opt02.aag -r
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirg 3 -fano 5
+cirg 0 -fani 4
+cirg 1 -fani 4
+cirsw
+cirp
+cirp -n
+cirstra
+citp -n
+cirg 0 -fano 5
+cirg 1 -fano 5
+cirg 2 -fani 1
+cirg 2 -fano 2
+cirg 3 -fani 3
+ciropt
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirg 1
+cirg 2
+cirg 3 -fani 2
+cirg 0 -fano 4
+q -f
+
+
